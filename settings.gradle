@@ -1,0 +1,1 @@
+include ':ui', ':cache', ':data', ':domain', ':remote', ':presentation', ':photo'

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">vkontakte_photos</string>
+    <string name="error_general">Произошла ошибка</string>
+    <string name="empty_error">тут пусто :(</string>
+    <string name="try_again">попробовать снова</string>
+
+    <string name="photo_transition" translatable="false">photo_transition</string>
+    <string name="name">имя</string>
+</resources>
